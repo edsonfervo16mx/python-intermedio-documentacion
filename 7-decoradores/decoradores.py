@@ -116,3 +116,6 @@ def my_demo_func():
 
 
 my_demo_func()
+
+
+# Los principales casos de usos son para autorizaciones (validando accesos de logueo)
