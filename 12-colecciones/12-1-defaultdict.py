@@ -32,3 +32,5 @@ records = [
 data = defaultdict(list)
 for warehouse, lote, tipo, cantidad in records:
     data[warehouse].append((lote, tipo, cantidad))
+
+
